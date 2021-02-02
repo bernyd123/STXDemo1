@@ -1,0 +1,26 @@
+{
+  "id": "1db4ee30-51e2-49ba-b5c0-8ed38cd680b6",
+  "name": "Demo Project",
+  "publisher": "STX Training",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject11.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
